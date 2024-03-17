@@ -1,5 +1,5 @@
 FROM alpine:3.19
-LABEL org.opencontainers.image.authors="seji@tihoda.de"
+LABEL org.opencontainers.image.authors="me@mybitti.de"
 ARG TARGETPLATFORM
 
 ENV DNSDIST_BIND_IP=0.0.0.0
